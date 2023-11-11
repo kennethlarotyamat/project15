@@ -439,4 +439,20 @@ One suggestion would be to try and refactor your personal website in React. Alte
 
 ...
 
+1
 
+Front-end Frameworks + CMS 1 - Tuesday, October 31
+
+In the first lesson you will learn what React is, and what single page applications (SPAs) are ,
+the purpose of React and why it was created and several key concepts of React such as components, 
+the virtual DOM, and one-way data binding. In the second lesson you will learn how to set up a React 
+environment using both create-react-app (CRA) and Vite, what JSX is and its role in React components 
+and how to create both class components and function components. In the third lesson you will cover how 
+to utilize props to pass data to child components, the concept of hooks and how to utilize them, how to 
+manage state within a React component and various methods of styling React components, including inline 
+styles, CSS/SCSS modules, and styled-components.
+
+Session Recording - Module 15 Day 1 - Tue., October 31
+Module 15 Lesson 1.1
+Module 15 Lesson 1.2
+Module 15 Lesson 1.3
