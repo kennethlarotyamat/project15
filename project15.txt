@@ -426,3 +426,17 @@ These videos that I've uploaded to YouTube today are taking forever to load. Thi
 My software development course will be over next week. This comes as kind of a relief, but I'm also kind of sad about it, I really enjoyed this class. I don't know how I'm going to continue to stay motivated to work on web and software development projects without project being due, everything I work on after class will be a self directed project. Yeah, I've been spending way too much, mountains of time playing computer games.
 
  ...
+
+ frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+frontend-frameworks--lesson-3-3slashproject-15---sat---nov--4
+
+...
+
+One suggestion would be to try and refactor your personal website in React. Alternatively, you could try searching Google for some React project ideas and attempt to build one of them. Or, maybe you’ve got your own idea for a React project already and could try building that.
+
+...
+
+
