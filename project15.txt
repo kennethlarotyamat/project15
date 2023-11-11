@@ -209,3 +209,15 @@ React frameworks on this page solve problems like these by default, with no extr
 If you’re still not convinced, or your app has unusual constraints not served well by these frameworks and you’d like to roll your own custom setup, we can’t stop you—go for it! Grab react and react-dom from npm, set up your custom build process with a bundler like Vite or Parcel, and add other tools as you need them for routing, static generation or server-side rendering, and more.
 
 ...
+
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
+https://www.linkedin.com/pulse/can-you-use-gaming-pc-work-pros-cons-revealed-mike-pawlik/
+
+...
+
+https://turbotax.intuit.com/tax-tips/college-and-education/can-i-deduct-my-computer-for-school-on-taxes/L6QNESb7Q
+
+...
+
+
