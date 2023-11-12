@@ -10,3 +10,7 @@ function Video({ video }) {
       </div>
     );
   }
+
+const container = document.getElementById('mydiv2');
+const root = ReactDOM.createRoot(container);
+root.render(<Video />)
