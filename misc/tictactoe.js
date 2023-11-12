@@ -1,3 +1,5 @@
+function tictactoe111220231208PM {
+
 import { useState } from 'react';
 
 function Square({ value, onSquareClick }) {
@@ -113,6 +115,10 @@ function calculateWinner(squares) {
   }
   return null;
 }
+}
+const container = document.getElementById('mydiv2');
+const root = ReactDOM.createRoot(container);
+root.render(<Game />) 
 
 // const container = document.getElementById('mydiv2');
 // const root = ReactDOM.createRoot(container);
