@@ -117,3 +117,14 @@ function calculateWinner(squares) {
 const container = document.getElementById('mydiv2');
 const root = ReactDOM.createRoot(container);
 root.render(<Game />) 
+
+// 
+// <!-- 
+    
+// const container = document.getElementById('mydiv2');
+// const root = ReactDOM.createRoot(container);
+// root.render(<Hello />) 
+
+// -->
+
+// <!-- <script src="C:\Users\KLYam\OneDrive\Documents\GitHub\project15\misc\tictactoe.js"></script> -->
