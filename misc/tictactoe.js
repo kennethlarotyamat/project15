@@ -1,6 +1,7 @@
-function tictactoe111220231208PM {
-
 import { useState } from 'react';
+
+function tictactoe111220231208PM() {
+
 
 function Square({ value, onSquareClick }) {
   return (
@@ -115,11 +116,13 @@ function calculateWinner(squares) {
   }
   return null;
 }
-}
+
+
+
 const container = document.getElementById('mydiv2');
 const root = ReactDOM.createRoot(container);
 root.render(<tictactoe111220231208PM />) 
-
+}
 // const container = document.getElementById('mydiv2');
 // const root = ReactDOM.createRoot(container);
 // root.render(<Game />) 
