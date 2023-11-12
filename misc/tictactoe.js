@@ -118,7 +118,7 @@ function calculateWinner(squares) {
 }
 const container = document.getElementById('mydiv2');
 const root = ReactDOM.createRoot(container);
-root.render(<Game />) 
+root.render(<tictactoe111220231208PM />) 
 
 // const container = document.getElementById('mydiv2');
 // const root = ReactDOM.createRoot(container);
